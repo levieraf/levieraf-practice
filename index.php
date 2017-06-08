@@ -5,7 +5,10 @@
 </head>
 <body>
 
-fecha Actual: <?= date('d-m-Y H:i:s') ?>
+<div>
+	Fecha Actual: <?= date('d-m-Y H:i:s') ?>
+</div>
+
 
 </body>
 </html>
