@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<?= 'Hola mundo' ?>
+<?= date('d-m-Y H:i:s') ?>
 
 </body>
 </html>
